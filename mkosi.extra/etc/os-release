@@ -1,0 +1,9 @@
+NAME="Arch Linux"
+ID=arch
+VARIANT="Rescue Image"
+VARIANT_ID=rescue
+BUILD_ID=rolling
+ANSI_COLOR="38;2;23;147;209"
+HOME_URL="https://github.com/rolowilde/archrescue"
+DOCUMENTATION_URL="https://github.com/rolowilde/archrescue/blob/main/README.md"
+BUG_REPORT_URL="https://github.com/rolowilde/archrescue/issues"

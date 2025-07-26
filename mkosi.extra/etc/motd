@@ -1,0 +1,9 @@
+
+Connect to Wi-Fi with nmcli:
+
+    # nmcli radio wifi on
+    # nmcli dev wifi list
+    # sudo nmcli dev wifi connect SSID
+
+Ethernet interfaces using DHCP should work automatically.
+
