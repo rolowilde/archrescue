@@ -1,1 +1,2 @@
-Server = https://spulgs3.linuxcentrs.lv/archlinux/$repo/os/$arch
+Server = https://ftp.linux.edu.lv/archlinux/$repo/os/$arch
+Server = https://archlinux.koyanet.lv/archlinux/$repo/os/$arch
