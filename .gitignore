@@ -1,6 +1,4 @@
 mkosi.local/
 mkosi.local.conf
-mkosi.crt
-mkosi.key
-mkosi.rootpw
 .mkosi-private/
+mkosi.rootpw
